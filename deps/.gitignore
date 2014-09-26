@@ -1,0 +1,5 @@
+*
+!build.jl
+!Makefile
+!distance.c
+!.gitignore
